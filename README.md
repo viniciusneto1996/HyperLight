@@ -25,7 +25,6 @@ HyperLight 是一个为 HyperOS 3 补全高光模糊效果的 Xposed 模块，�
 
 ### 版本适配
 
-- 模块版本：1.0.0
 - 目标 Android 版本：Android 16
 - 支持系统：HyperOS 3.x
 - Xposed 框架：LSPosed / Xposed
@@ -91,7 +90,6 @@ HyperLight is an Xposed module that completes the highlight blur effects for Hyp
 
 ### Compatibility
 
-- Module Version: 1.0.0
 - Target Android: Android 16
 - Supported System: HyperOS 3.x
 - Xposed Framework: LSPosed / Xposed
